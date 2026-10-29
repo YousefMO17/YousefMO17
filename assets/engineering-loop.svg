@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="186" viewBox="0 0 1160 186" role="img" aria-label="Engineering loop: understand, build, test, observe, improve">
+<defs><linearGradient id="gb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1727"/><stop offset="1" stop-color="#16253a"/></linearGradient><linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6cf5cc"/><stop offset="1" stop-color="#69adff"/></linearGradient></defs>
+<rect x="0" y="0" width="1160" height="186" rx="18" fill="url(#gb)"/>
+<text x="35" y="32" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="2" font-weight="bold" fill="#81b0c7">THE ENGINEERING LOOP</text>
+<g font-family="Arial,Helvetica,sans-serif" font-weight="bold" font-size="17" text-anchor="middle">
+<rect x="34" y="58" width="178" height="80" rx="12" fill="#152f3d" stroke="#34798a"/><text x="123" y="105" fill="#d9f1ff">01 · UNDERSTAND</text>
+<rect x="259" y="58" width="178" height="80" rx="12" fill="#152f3d" stroke="#34798a"/><text x="348" y="105" fill="#d9f1ff">02 · BUILD</text>
+<rect x="484" y="58" width="178" height="80" rx="12" fill="#152f3d" stroke="#34798a"/><text x="573" y="105" fill="#d9f1ff">03 · TEST</text>
+<rect x="709" y="58" width="178" height="80" rx="12" fill="#152f3d" stroke="#34798a"/><text x="798" y="105" fill="#d9f1ff">04 · OBSERVE</text>
+<rect x="934" y="58" width="192" height="80" rx="12" fill="#152f3d" stroke="#34798a"/><text x="1030" y="105" fill="#d9f1ff">05 · IMPROVE</text>
+</g>
+<g stroke="url(#ac)" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M215 98h37l-9-7m9 7l-9 7"/><path d="M440 98h37l-9-7m9 7l-9 7"/><path d="M665 98h37l-9-7m9 7l-9 7"/><path d="M890 98h37l-9-7m9 7l-9 7"/>
+</g>
+<text x="580" y="168" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#9fc3d8" text-anchor="middle">Repeatability  ·  Troubleshooting  ·  Documentation  ·  Reliability</text>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1360" height="410" viewBox="0 0 1360 410" role="img" aria-label="Youssef Mustafa — aspiring cloud and DevOps engineer — Linux, Python, automation">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071324"/><stop offset="0.58" stop-color="#0c1c30"/><stop offset="1" stop-color="#101a2d"/></linearGradient>
+ <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#59f3da"/><stop offset="1" stop-color="#54adff"/></linearGradient>
+ <radialGradient id="spot" cx="75%" cy="50%" r="70%"><stop offset="0" stop-color="#174b62" stop-opacity="0.43"/><stop offset="1" stop-color="#0a172b" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#335474" stroke-opacity="0.20" stroke-width="1"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="12"/></filter>
+</defs>
+<rect width="1360" height="410" rx="23" fill="url(#bg)"/>
+<rect width="1360" height="410" rx="23" fill="url(#spot)"/>
+<rect x="2" y="2" width="1356" height="406" rx="21" fill="none" stroke="#426483" stroke-opacity=".7" stroke-width="1.5"/>
+<rect x="0" y="0" width="1360" height="410" fill="url(#grid)" opacity=".7" rx="23"/>
+<path d="M0 398 H1360" stroke="url(#cyan)" stroke-width="4" opacity="0.82"/>
+<rect x="63" y="49" width="310" height="34" rx="17" fill="#102b3b" stroke="#23546b"/>
+<circle cx="83" cy="66" r="5" fill="#59f3da"/>
+<text x="99" y="71" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" letter-spacing="1.8" fill="#a3d6e6">CLOUD / DEVOPS JOURNEY</text>
+<text x="61" y="161" font-family="Arial, Helvetica, sans-serif" font-size="71" font-weight="bold" letter-spacing="-1.8" fill="#f5f9ff">YOUSSEF</text>
+<text x="61" y="235" font-family="Arial, Helvetica, sans-serif" font-size="71" font-weight="bold" letter-spacing="-1.8" fill="url(#cyan)">MUSTAFA.</text>
+<text x="64" y="285" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="bold" fill="#daeafb">Aspiring Cloud &amp; DevOps Engineer</text>
+<text x="65" y="321" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#a6bad2">Electrical &amp; Communications Engineering Student</text>
+<path d="M64 346H615" stroke="#41627a" stroke-width="1"/>
+<text x="64" y="375" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="1" fill="#a9cadb">LINUX</text>
+<circle cx="142" cy="369" r="3" fill="#59f3da"/>
+<text x="159" y="375" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="1" fill="#a9cadb">PYTHON</text>
+<circle cx="268" cy="369" r="3" fill="#59f3da"/>
+<text x="284" y="375" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="1" fill="#a9cadb">NETWORKING</text>
+<circle cx="424" cy="369" r="3" fill="#59f3da"/>
+<text x="440" y="375" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="1" fill="#a9cadb">AUTOMATION</text>
+<!-- topology panel -->
+<rect x="756" y="47" width="543" height="313" rx="19" fill="#081827" stroke="#28516a" stroke-width="1.5"/>
+<rect x="777" y="66" width="501" height="32" rx="9" fill="#102a3d"/>
+<circle cx="796" cy="82" r="5" fill="#ff6d7e"/><circle cx="813" cy="82" r="5" fill="#f9c86d"/><circle cx="830" cy="82" r="5" fill="#59f3da"/>
+<text x="859" y="87" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" letter-spacing="1" fill="#a8c6db">systems-thinking.pipeline</text>
+<text x="782" y="129" font-family="monospace" font-size="17" fill="#64ecd4">$</text>
+<text x="803" y="129" font-family="monospace" font-size="17" fill="#c7dcec">learn --build --document</text>
+<!-- paths -->
+<path d="M877 225H996M1109 225H1217" stroke="#4faccb" stroke-width="4" stroke-linecap="round"/>
+<path d="M986 217L997 225L986 233" fill="none" stroke="#4faccb" stroke-width="3"/>
+<path d="M1205 217L1217 225L1205 233" fill="none" stroke="#4faccb" stroke-width="3"/>
+<!-- cards -->
+<rect x="786" y="177" width="129" height="94" rx="14" fill="#113548" stroke="#3c889e"/>
+<rect x="992" y="177" width="130" height="94" rx="14" fill="#113548" stroke="#3c889e"/>
+<rect x="1199" y="177" width="76" height="94" rx="14" fill="#113548" stroke="#3c889e"/>
+<!-- terminal glyph -->
+<rect x="830" y="194" width="42" height="28" rx="4" fill="none" stroke="#62eed8" stroke-width="2"/>
+<path d="M839 201l8 7-8 7 M850 215h12" fill="none" stroke="#62eed8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="852" y="251" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#e4f1f7">BUILD</text>
+<!-- cloud glyph -->
+<path d="M1031 216a12 12 0 0 1 12-14 18 18 0 0 1 33 6 11 11 0 0 1 3 22h-40a11 11 0 0 1-8-14" fill="none" stroke="#62eed8" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="1057" y="251" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#e4f1f7">SHIP</text>
+<!-- pulse glyph -->
+<path d="M1210 214h9l5-9 8 23 7-13h22" fill="none" stroke="#62eed8" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="1237" y="251" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#e4f1f7">OPERATE</text>
+<text x="782" y="318" font-family="monospace" font-size="15" fill="#aec6d7">&gt; Engineering is a practice, not a badge.</text>
+<circle cx="1275" cy="317" r="5" fill="#62eed8"/>
+</svg>
